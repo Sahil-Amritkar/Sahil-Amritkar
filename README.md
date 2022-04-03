@@ -8,7 +8,7 @@ I love problem solving and learning new things!
 Languages:  
 -Python  
 -C++  
--C
+-C  
 -Java  
 -HTML/CSS  
   
