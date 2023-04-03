@@ -13,6 +13,10 @@ I'm pursuing Compueter Science Engineering with a specialization in AI and Robot
 - Data Science, Data Analytics, Customer Relationship Management, Databases, SQL, NoSQL, Data Visualization, Power BI
   
 ## Languages
-- Python, R, Java, C++, Kotlin
+- Python 
+- R
+- C++
+- Java
+- Kotlin
   
 LinkdIn: https://www.linkedin.com/in/sahil-amritkar-7702981b8/
